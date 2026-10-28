@@ -1,0 +1,27 @@
+# workflow-trainings
+01.workflows
+
+workflow-user-steps
+ ├── README.md
+ └── diagrams_&_screenshots
+      ├── add_workflow_map_menu.png
+      ├── basic_workflow_architecture.png
+      ├── create_workflow_map_config.png
+      ├── final_workflow_design.png
+      ├── initiate_and_start_workflow_add_attachment.png
+      ├── initiate_workflow_menu.png
+      ├── manager_assignment_inbox_classic_view.png
+      ├── manager_assignment_inbox_smart_view.png
+      ├── manager_execute_user_step.png
+      ├── open_configuration_of_step_using_double_click.gif
+      ├── open_configuration_of_step_using_functions_menu.gif
+      ├── open_workflow_designer_from_edit_option_menu.png
+      ├── user_step_assignees_tab.png
+      ├── user_step_general_tab.png
+      ├── user_step_permissions_disposition.png
+      ├── workflow_designer_canvas_connecting_steps.png
+      ├── workflow_designer_canvas_drag_and_drop_from_sidebar.png
+      ├── workflow_designer_sidebar.png
+      ├── workflow_map_save.png
+      └── workflow_status_audit.png
+# workflow-trainings
